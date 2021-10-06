@@ -5,6 +5,10 @@
 
 - 👯 I’m currently working as UI Designer **at Golcha Group**
 
+<div alin="center">
+  <img width=300px src="https://i.chzbgr.com/full/7724588544/h2AA1B118/pandas-love-their-3ds" />
+</div>
+
 - 👨‍💻 All of my projects are available at [https://www.behance.net/riyabhargava1](https://www.behance.net/riyabhargava1)
 
 - 📫 How to reach me **riyabhargava1976@gmail.com**
