@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently Learning **DSA and React**
 
-- 👯 I’m currently working as UI Designer **at Golcha Group**
 
 <div alin="center">
   <img width=300px src="https://i.chzbgr.com/full/7724588544/h2AA1B118/pandas-love-their-3ds" />
